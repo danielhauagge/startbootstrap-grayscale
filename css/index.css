@@ -1,0 +1,20 @@
+.page-frame {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:200px;
+    margin-bottom:0px;
+    width:850px;
+}
+
+h1 {
+    font-family:'ChunkFive-Roman';
+    font-weight:normal;
+    font-size:42px;
+}
+
+@font-face {
+    font-family: 'ChunkFive-Roman';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ChunkFive-Roman'), url('../fonts/Chunkfive.woff') format('woff');
+}
